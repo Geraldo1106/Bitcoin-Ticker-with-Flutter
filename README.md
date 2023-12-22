@@ -1,4 +1,4 @@
-# flutter_application_1
+# Bitcoin Ticket using Flutter
 
 A new Flutter project.
 
